@@ -19,7 +19,7 @@ Type 4 - Exit
 
 Welcome to ATM
 Enter your Customer Number
-630442030
+63044****
 Enter your PIN Number
 654321
 Select Account Type you want to Access
