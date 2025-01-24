@@ -21,7 +21,7 @@ Welcome to ATM
 Enter your Customer Number
 63044****
 Enter your PIN Number
-654321
+******
 Select Account Type you want to Access
 Type 1 - Checking Account
 Type 2 - Savings Account
